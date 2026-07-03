@@ -31,13 +31,13 @@ const About = () => {
           </li>
         </ul>
         <p>
-      Hi, I'm Vikas Sharma, a B.Tech Computer Science student passionate about
-  software development, data science, and building impactful digital
-  solutions. I enjoy creating full-stack web applications using the MERN
-  stack and exploring emerging technologies such as Artificial Intelligence,
-  Machine Learning, and Blockchain. My goal is to develop innovative
-  products that solve real-world problems while continuously improving my
-  technical and problem-solving skills.
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem
+          aliquam voluptatibus odit, saepe exercitationem autem molestias
+          asperiores dolores sit corrupti molestiae ea, facere, totam
+          necessitatibus enim quod aliquid. Quisquam, dolor. aliquam
+          voluptatibus odit, saepe exercitationem autem molestias asperiores
+          dolores sit corrupti molestiae ea, facere, totam necessitatibus enim
+          quod aliquid. Quisquam, dolor.
         </p>
       </div>
     </div>
