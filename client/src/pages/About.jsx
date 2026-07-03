@@ -8,13 +8,13 @@ const About = () => {
         <h1 className="text-4xl text-center font-semibold">About</h1>
         <div className="w-max flex flex-col">
           <img src={aboutImg} className="w-40 h-40" alt="Image" />
-          <h1 className="text-xl font-semibold text-center">Sanjay NG</h1>
+          <h1 className="text-xl font-semibold text-center">Vikas Sharma</h1>
         </div>
         <ul className="list-disc w-max mx-5">
           <li className="hover:underline hover:text-blue-600 cursor-pointer">
             <a
               className="flex items-center gap-2"
-              href="https://github.com/Sanjayng125"
+              href="https://github.com/vikas01988"
               target="_blank"
             >
               Git-Hub <FaExternalLinkAlt />
@@ -23,7 +23,7 @@ const About = () => {
           <li className="hover:underline hover:text-blue-600 cursor-pointer">
             <a
               className="flex items-center gap-2"
-              href="https://linkedin.com/in/sanjay-ng-41b64922a"
+              href="https://www.linkedin.com/in/vikas-sharma-4914802bb/"
               target="_blank"
             >
               LinkedIn <FaExternalLinkAlt />
@@ -31,13 +31,13 @@ const About = () => {
           </li>
         </ul>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem
-          aliquam voluptatibus odit, saepe exercitationem autem molestias
-          asperiores dolores sit corrupti molestiae ea, facere, totam
-          necessitatibus enim quod aliquid. Quisquam, dolor. aliquam
-          voluptatibus odit, saepe exercitationem autem molestias asperiores
-          dolores sit corrupti molestiae ea, facere, totam necessitatibus enim
-          quod aliquid. Quisquam, dolor.
+        Hi, I'm Vikas Sharma, a B.Tech Computer Science student passionate about
+  software development, data science, and building impactful digital
+  solutions. I enjoy creating full-stack web applications using the MERN
+  stack and exploring emerging technologies such as Artificial Intelligence,
+  Machine Learning, and Blockchain. My goal is to develop innovative
+  products that solve real-world problems while continuously improving my
+  technical and problem-solving skills.
         </p>
       </div>
     </div>
