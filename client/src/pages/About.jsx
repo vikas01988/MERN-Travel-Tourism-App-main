@@ -31,13 +31,11 @@ const About = () => {
           </li>
         </ul>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem
-          aliquam voluptatibus odit, saepe exercitationem autem molestias
-          asperiores dolores sit corrupti molestiae ea, facere, totam
-          necessitatibus enim quod aliquid. Quisquam, dolor. aliquam
-          voluptatibus odit, saepe exercitationem autem molestias asperiores
-          dolores sit corrupti molestiae ea, facere, totam necessitatibus enim
-          quod aliquid. Quisquam, dolor.
+         I'm Vikas Sharma, a Computer Science student and full-stack developer with
+  a strong interest in MERN Stack development, Data Science, and Artificial
+  Intelligence. I enjoy turning ideas into scalable applications and solving
+  real-world problems through technology. My focus is on continuous learning,
+  building impactful projects, and growing as a software engineer.
         </p>
       </div>
     </div>
